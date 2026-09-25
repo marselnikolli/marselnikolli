@@ -46,7 +46,7 @@ From custom plugins to complex integrations, I enjoy turning ideas into reliable
 
 ## 📫 Contact
 
-- 🌍 Website: https://marselnikolli.dev (coming soon...)
+- 🌍 Website: https://marselnikolli.dev
 - 💼 GitHub: [github.com/marselnikolli](https://github.com/marselnikolli)
 
 ---
