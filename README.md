@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Marsel 
-
 💻 **Full-Stack Developer • AI & Automation • Self-Hosted Systems**
 
 I build **practical software, automation, and AI-powered systems** for real-world problems — from web platforms and APIs to AI agents, developer tooling, and self-hosted infrastructure.
